@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm **Rushil Chilakamarri**, a passionate developer from **India**. I love building innovative projects and exploring new technologies. Let's create something amazing together!
+I'm **Rushil Chilakamarri**, a 3rd year CSE Student from **India**. I love building innovative projects and exploring new technologies. Let's create something amazing together!
 
 ## About Me
 
