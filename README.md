@@ -12,6 +12,4 @@ html,css,django,flask,git,pytorch,bootstrap,anaconda,github,py,qt,sqlite,mysql,g
 
 ## GitHub Stats
 
-🏆 **Public Repositories:** 7 | 👥 **Followers:** 0 | 🔄 **Following:** 3
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rushilch&show_icons=true&hide_title=true&count_private=true&theme=radical)
